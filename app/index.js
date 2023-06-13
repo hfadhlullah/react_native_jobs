@@ -24,7 +24,7 @@ const Home = () => {
                     headerRight: () => (
                         <ScreenHeaderBtn iconUrl={images.profile} dimension="100%" />
                     ),
-                    headerTitle: "Project X"
+                    headerTitle: "Job App Project"
                  }}
             />
 
