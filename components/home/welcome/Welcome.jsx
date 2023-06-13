@@ -32,6 +32,7 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
             value={searchTerm}
             onChangeText={(text) => setSearchTerm(text)}
             placeholder='What are you looking for?'
+            placeholderTextColor="#c3c3c3"
           />
         </View>
 
